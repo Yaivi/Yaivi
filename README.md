@@ -29,11 +29,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
 </div>
-
-<h3 align="left">  My Stats :</h3>
-
-###
-
-<div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Yaivi&theme=dark&locale=es" alt="GitHub Streak" /></a>
-</div>
