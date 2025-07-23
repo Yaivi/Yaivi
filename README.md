@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Javier and I'm a college from Spain</p>
+<p align="left">My name is Javier and I'm a college student from Spain</p>
 
 ###
 
@@ -30,10 +30,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
 </div>
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">  My Stats :</h3>
 
 ###
 
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yaivi&theme=dark&locale=es" alt="GitHub Streak" /></a></div>
-###
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Yaivi&theme=dark&locale=es" alt="GitHub Streak" /></a>
+</div>
