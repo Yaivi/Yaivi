@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning how to host a Github Repositorie<br>🎯 Goals: graduate and keep on learning</p>
+<p align="left">🎯 Goals: graduate and keep on learning</p>
 
 ###
 
