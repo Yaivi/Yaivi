@@ -56,5 +56,5 @@ Soy **Javier**, ingeniero informático. Me gusta aprender construyendo cosas, de
 
 ## 🌐 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/javier-sánchez-godoy-41b73537a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-s%C3%A1nchez-godoy-41b73537a/)
 
